@@ -29,7 +29,7 @@ app.use(lusca.xframe('SAMEORIGIN'))
 app.use(lusca.xssProtection(true))
 
 // Use general router
-app.use('/api', routers)
+app.use('/api/v1', routers)
 
 // Custom API error handler
 app.use(apiErrorHandler)

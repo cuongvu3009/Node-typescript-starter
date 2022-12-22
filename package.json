@@ -31,6 +31,7 @@
     "@types/compression": "^1.7.2",
     "@types/jsonwebtoken": "^8.5.9",
     "@types/lusca": "^1.7.1",
+    "@types/mongoose": "^5.11.97",
     "bcrypt": "^5.1.0",
     "bcryptjs": "^2.4.3",
     "compression": "^1.7.4",
